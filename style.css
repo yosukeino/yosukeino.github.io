@@ -1,3 +1,14 @@
-.navbar {
-    background-color: #424242;
+body {
+    font-size: 14px;
+    font-family: "Hiragino Kaku Gothic ProN","メイリオ", sans-serif;
+}
+.jumbotron {
+    text-align: center;
+}
+.jumbotron h1 {
+    margin-bottom: 30px;
+}
+
+.media-body h4 {
+    margin-top: 10px;
 }
