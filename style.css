@@ -12,3 +12,15 @@ body {
 .media-body h4 {
     margin-top: 10px;
 }
+
+.padd {
+    padding: 30px 20px;
+}
+
+.media-object {
+    height: 150px;
+    width: 150px;
+}
+.table {
+    max-width: 400px;
+}
